@@ -1,0 +1,76 @@
+/* start fron the top of the work */
+#top span{
+    display: inline;
+}
+
+#top.container{
+    background-color: rgba(184, 177, 171, 0.897);
+    opacity: 0.5;
+    font-style: Verdana;
+    font-size: 32px;
+    height: 300px;
+    padding-top: 35px;
+
+}
+
+.gif{
+    height: 300px;
+    top: 0;
+}
+
+.smf{
+    position: absolute;
+    top: 160px;
+    left: 470px;
+    font-size: 110px;
+
+}
+
+.web-info{
+    float: right;
+    padding: 20px;
+    font-size: 20px;
+    top: 270px;
+}
+
+#body.container{
+    background-image: url(./cutebg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    margin-top: -20px;
+}
+
+.par{
+    position: absolute;
+    right: 10px;
+    top: 330px;
+    font-size: 20px;
+    text-align: left;
+    font-family: Helvetica;
+    line-height: 25px;
+    width: 650px;
+}
+
+.list{
+    position: absolute;
+    right: 100px;
+    top: 500px;
+    font-size: 20px;
+    font-family: Helvetica;
+}
+
+.bsure{
+    position: absolute;
+    top: 570px;
+    right: 10px;
+    font-size: 20px;
+    font-family: Helvetica;
+    width: 630px;
+}
+
+.sec{
+    padding-top: 130px;
+}
+
+
